@@ -134,7 +134,7 @@ public class WEEK2_JavaOperators {
         // int: a whole number. A counter that starts at 7.
         int count = 7;
 
-        System.out.println("\n~~~ ADVANCED: Postfix Increment (count++) ~~~");       // Empty line first, then the title
+        System.out.println("\n~~~ ADVANCED: Postfix Increment (count++) ~~~");       // header
         System.out.println("Starting count: " + count);              // Shows 7
 
         // count++ is POSTFIX: Java gives you the old value first, then adds 1 afterward.
